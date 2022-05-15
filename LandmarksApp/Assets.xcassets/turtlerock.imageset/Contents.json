@@ -1,11 +1,11 @@
 {
   "images" : [
     {
-      "filename" : "turtle_rock.jpeg",
       "idiom" : "universal",
       "scale" : "1x"
     },
     {
+      "filename" : "turtle_rock.jpeg",
       "idiom" : "universal",
       "scale" : "2x"
     },
